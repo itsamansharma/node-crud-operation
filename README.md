@@ -28,5 +28,8 @@ app.listen(3004,()=>{
   console.log("Port running on 3004")
 })
 ```
-now in terminal run command ` npm app.js `
-
+now in terminal run command ` npm app.js ` <br>
+<br>
+![image](https://github.com/itsamansharma/node-crud-operation/assets/71565522/200c8e84-203e-4def-a64d-7a330f2e24c0)
+<br>
+now your project is working fine, now please refer the code for crud operation
